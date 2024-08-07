@@ -1,5 +1,8 @@
 # NekoSauce
 
+> [!IMPORTANT]
+> This repository holds the website at [nekosauce.org](https://nekosauce.org) but the engine hosted here doesn't work at all. The rewrite is being worked on but at this moment it's still closed source.
+
 An anime & manga source finder. Made with Django and Next.js.
 
 [Documentation](https://docs.nekosauce.org/) • [Donate](https://ko-fi.com/Nekidev)

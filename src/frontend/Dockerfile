@@ -19,3 +19,6 @@ ENV FRONTEND_FUNDING_PROGRESS_FORMAT ${FRONTEND_FUNDING_PROGRESS_FORMAT}
 
 RUN npm install
 RUN npm run build
+
+ENTRYPOINT ["npm"]
+CMD ["run", "start"]
